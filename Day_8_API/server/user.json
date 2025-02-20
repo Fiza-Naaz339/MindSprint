@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "address": "NYC"
+    },
+    {
+      "id": "3",
+      "name": "Shahi",
+      "email": "cath@gmail.com",
+      "address": "India",
+      "website": "shashi.com"
+    }
+  ]
+}
