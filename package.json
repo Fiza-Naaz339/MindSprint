@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
+=======
+  "homepage": "https://Fiza-Naaz339.github.io/MindSprint/Day_8_API/first-app", 
+>>>>>>> 661c27435b9bfea9a96bbd91c1745b16942402aa
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -25,6 +29,10 @@
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.18",
+<<<<<<< HEAD
+=======
+    "gh-pages": "^6.3.0",
+>>>>>>> 661c27435b9bfea9a96bbd91c1745b16942402aa
     "globals": "^15.14.0",
     "vite": "^6.1.0"
   }
