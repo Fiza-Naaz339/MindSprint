@@ -60,10 +60,12 @@ List the contents of the target folder to find the JAR file:
 Use the following command to run the JAR file (replace sample-0.0.1-snapshot.jar with the actual JAR file name if it’s different):
     ```bash
     java -jar sample-0.0.1-snapshot.jar
+
 14. **Access the application**:
 Open your web browser and enter the following URL to access the application (replace with your public IP or DNS name):
     ```bash
     http://<your-public-ip-or-dns-name>:8080/hello
+![WhatsApp Image 2025-02-24 at 11 09 55 PM](https://github.com/user-attachments/assets/68e92c6b-47c7-4281-a37e-07118d3635a2)
     
 15. **Also check**:
     ```bash
