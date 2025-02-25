@@ -82,7 +82,8 @@ pipeline {
 ```
 
 ## Running the Job
-![Image6](https://github.com/user-attachments/assets/28b9d8dc-976c-4c0c-af42-189b0c27121e)
+![image](https://github.com/user-attachments/assets/39c41e39-b1ee-4009-9ecb-9788f9d010e9)
+
 
 ## Checking the Deployed Application
 Access the application at `http://localhost:9095`
