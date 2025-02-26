@@ -1,0 +1,7 @@
+echo "Script name: $0"
+echo "Arguments: $1"
+echo "Arguments: $2"
+echo "Arguments: $3"
+echo "Number of arguments: $#"
+echo "Process ID: $$"
+echo "Exit status: $?"
